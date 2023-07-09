@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is fourth file added in local remote
+=======
+file4.txt added in remote
+>>>>>>> 494a25c803fb588a52e7fe9e521f991d1ee99b5d
