@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 9th file on local repo
+=======
+9th file on remote repo
+>>>>>>> a96545a453c36883217277943b04d4ad934e0b65
